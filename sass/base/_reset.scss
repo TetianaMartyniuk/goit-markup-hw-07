@@ -14,9 +14,10 @@ li {
 img {
     display: block;
     max-width: 100%;
+    height: auto;
 }
 
-/* Убирает декор списков и линков */
+/* Убирает декор списков и линков, точечно */
 .list {
     margin: 0;
     padding: 0;
